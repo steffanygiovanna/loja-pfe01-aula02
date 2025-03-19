@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "produto": "camiseta",
+        "descrição": "camiseta Jesus is Lord",
+        "preco": 30.00,
+        "imagem": "https://acdn-us.mitiendanube.com/stores/005/263/518/products/img_0379-19cab8192599db3dd717284915864369-1024-1024.jpg"
+    },
+
+    {
+        "id": 2,
+        "produto": "Boné",
+        "descrição": "Boné Lacoste",
+        "preco": 35.00,
+        "imagem": "https://images.tcdn.com.br/img/img_prod/769517/bone_lacoste_logo_grande_28499_4_1156e01d53a302f6b2c806bf7cbd91e7.jpg"
+    },
+
+    {
+        "id": 3,
+        "produto": "Body",
+        "descrição": "body de bebê",
+        "preco": 50.00,
+        "imagem":"https://a-static.mlcdn.com.br/1500x1500/saida-de-maternidade-para-bebe-menino-urso-vermelho-04-pecas-roupas-para-bebe-pandora-baby-enxovais/picoka/749b69c4cbda11ec8d324201ac18506b/bdbfcf5e902fa691ceb46574d1a8582e.jpeg"
+    },
+
+    {
+        "id": 4,
+        "produto": "All star",
+        "descrição": "Tênis de bebê",
+        "preco": 45.00,
+        "imagem": "https://a-static.mlcdn.com.br/1500x1500/saida-de-maternidade-para-bebe-menino-urso-vermelho-04-pecas-roupas-para-bebe-pandora-baby-enxovais/picoka/749b69c4cbda11ec8d324201ac18506b/bdbfcf5e902fa691ceb46574d1a8582e.jpeg"
+    },
+
+    {
+        "id": 5,
+        "produto": " Egeo choc",
+        "descrição": "Perfume Feminino",
+        "preco": 150.00,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4kvulJGDAgBgi6DTtGq23LLt4SUHU_l-rg&s"
+    },
+
+    {
+        "id": 6,
+        "produto": "Egeo Dolce",
+        "descrição": "Perfume Feminino",
+        "preco": 150.00,
+        "imagem": "https://a-static.mlcdn.com.br/1500x1500/egeo-dolce-desodorante-colonia-90ml-perfume-marshmallow-framboesa-algodao-doce-e-baunilha-o-boticario/jabrasilsilva/ecf277fa2d7811ed91a14201ac185019/25d870be5f87100f4b8fa24d730d3616.jpeg"
+    },
+
+    {
+        "id": 7,
+        "produto": "Calça Cargo",
+        "descrição": "Feminina",
+        "preco": 70.99,
+        "imagem": "https://acdn-us.mitiendanube.com/stores/001/098/126/products/53-febf2730fb8714fc4b17068387337571-1024-1024.png"
+    },
+
+    {
+        "id": 8,
+        "produto": "212 Vip",
+        "descrição": "Perfume Masculino",
+        "preco": 200.00,
+        "imagem": "https://cdn.awsli.com.br/2500x2500/30/30892/produto/942324/f632a05f09.jpg"
+    },
+
+    {
+        "id": 9,
+        "produto": "Malbec Ultra Blue",
+        "descrição": "Perfume Masculino",
+        "preco": 219.90,
+        "imagem": "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/blog/wordpress/prod/sites/1/2024/03/06163258/blz_conteudo_loucas_2024_marco_interna_os-melhores-perfumes-nacionais-masculinos_1.jpg"
+    },
+
+    {
+        "id": 10,
+        "produto": "Garrafa Urso",
+        "descrição": "Garrafa para crianças",
+        "preco": 30.00,
+        "imagem": "https://m.media-amazon.com/images/I/71JDvSBofAL._AC_UF894,1000_QL80_.jpg"
+    },
+
+    {
+        "id": 11,
+        "produto": "Garrafa térmica",
+        "descrição": "Garrafa térmica para academia",
+        "preco": 45.00,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0dhN81S-6PesyMOjMO6-kRJ0Ug3J7Lbwbw&s"
+    },
+
+    {
+        "id": 12,
+        "produto": "Vestido tubinho",
+        "descrição": "Vestido tubinho preto",
+        "preco": 47.50,
+        "imagem": "https://cdn.dooca.store/153665/products/img-20240814-wa1151_450x600.jpg?v=1723686464&webp=0"
+    }
+
+]
