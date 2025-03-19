@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,16 +8,34 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="./assets/Loja da BELL.png" type="image/x-icon">
 </head>
-<body>
+
+<body>w
     <header>
         <h1>Loja da bell</h1>
+        <button onclick="cadastro.classList.remove('oculto')">Novo produto</button>
     </header>
     <main>
-        <h2>Em contrução</h2>
+       
     </main>
     <footer>
         <h2>By: Steffany</h2>
     </footer>
+    <div id="cadastro" class="modal oculto">
+        <div class="janela">
+            <div>
+                <h3>Cadastro</h3>
+                <button  onclick="window.location.reload()">X</button>
+            </div>
+            <form>
+                <input type="text" name="produto" placeholder="Nome do produto" required>
+                <input type="text" name="produto" placeholder="Descrição" required>
+                <input type="Number" step="0.01" name="Preco" placeholder="Preço" required>
+                <input type="text" name="Imagem" placeholder="Cole o endereço da imagem" required>
+                <button type="submit">Cadastrar</button>
+            </form>
+        </div>
+    </div>
 </body>
 <script src="script.js"></script>
+
 </html>
